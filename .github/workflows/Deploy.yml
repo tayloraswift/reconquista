@@ -13,7 +13,7 @@ jobs:
                 with:
                     node-version: 24
 
-            -   run: npm ci
+            -   run: npm install
 
             -   name: Publish to Open VSX Registry
                 uses: HaaLeo/publish-vscode-extension@v2

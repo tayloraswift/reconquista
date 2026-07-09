@@ -1,13 +1,13 @@
 {
   "name": "reconquista-color-theme",
-  "publisher": "swiftinit",
+  "publisher": "rarest",
   "repository": {
     "type": "git",
-    "url": "https://github.com/tayloraswift/vscode-reconquista"
+    "url": "https://github.com/tayloraswift/reconquista"
   },
   "displayName": "reconquista",
   "description": "",
-  "version": "0.0.4",
+  "version": "0.1.0",
   "engines": {
     "vscode": "^1.92.0"
   },
